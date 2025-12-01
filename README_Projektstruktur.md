@@ -1,7 +1,7 @@
 # Projektstruktur – Predictive Maintenance Deutsche Bahn
 
 Dieses Projekt besteht aus mehreren Modulen zur Analyse, Modellierung und Präsentation eines Predictive-Maintenance-Systems für ICE-Komponenten.
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jam-Reut/ml_Predictive-Maintenance-Systems_ICE/HEAD?labpath=predictive_maintenance_realistic.ipynb)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jam-Reut/ml_Predictive-Maintenance-Systems_ICE/HEAD?labpath=predictive_maintenance_exam.ipynb)
 
 ## Ordnerübersicht
 
