@@ -65,12 +65,6 @@ Optimaler Threshold nach Youden-Index
 Nach vollständiger Ausführung:
 „Alle Schritte wurden erfolgreich ausgeführt – gut gemacht!“
 
-## 🔧 Logging & Testen (optional erweiterbar)
-Das Projekt kann – wie im ursprünglichen Beispiel für Logistic Regression – erweitert werden mit:
-Logging (Trainingszeit, Modellstatus)
-Timer-Funktionen
-Unit-Tests (Accuracy, Threshold-Checks, Pipeline-Validierung)
-
 ## 🧾 Ergebnis beim Ausführen
 Nach Ausführung des Notebooks erhältst du:
 vollständige EDA
