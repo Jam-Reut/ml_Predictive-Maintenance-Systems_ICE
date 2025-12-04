@@ -9,11 +9,10 @@ Aufbau eines vollständigen ML-Workflows für Prüfungs-, Forschungs- und Entwic
 
 ## Projektstruktur:
 📦 predictive-maintenance-ice
-│
-├── data_generator_818370.py
-├── predictive_maintenance_exam_v2.csv
-├── predictive_maintenance_exam_notebook_818370.ipynb
-├── README.md
+   - data_generator_818370.py
+   - predictive_maintenance_exam_v2.csv
+   - predictive_maintenance_exam_notebook_818370.ipynb
+   - README.md
 
 ## data_generator_818370.py
 
