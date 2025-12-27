@@ -10,7 +10,7 @@ Aufbau eines vollständigen ML-Workflows für Prüfungs-, Forschungs- und Entwic
 📦 predictive-maintenance-ice
    - data_generator_818370.py
    - predictive_maintenance_exam.csv
-   - predictive_maintenance_exam_notebook_818370.ipynb
+   - predictive_maintenance_exam.ipynb
    - README.md
 
 ## Data_generator.py
@@ -35,7 +35,7 @@ Zielvariable failure_within_30d
 Der Datensatz ist sauber, konsistent, keine NaN-Werte,
 und enthält deutliche Muster, die für ML lernbar sind.
 
-## predictive_maintenance_exam_notebook.ipynb
+## predictive_maintenance_exam.ipynb
 Das zentrale Notebook führt den vollständigen Workflow durch:
 1. Explorative Datenanalyse (EDA)
 Histogramme aller Features
