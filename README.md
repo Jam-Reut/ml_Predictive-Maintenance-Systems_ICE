@@ -14,15 +14,15 @@ Aufbau eines vollständigen ML-Workflows für Prüfungs-, Forschungs- und Entwic
    - README.md
 
 ## Data_generator.py
-Erzeugt einen physikalisch plausiblen Predictive-Maintenance-Datensatz, der reale Zusammenhänge zwischen Zugkomponenten simuliert.
+Erzeugt einen physikalisch plausiblen Predictive-Maintenance-Datensatz, der Zusammenhänge zwischen Zugkomponenten simuliert.
 Enthält u. a.:
-Temperatur- und Vibrationsmessungen
-mechanische Belastungsfaktoren
-Wartungsintervalle und Fehlerhistorien
-Umweltbedingungen (hot, cold, wet, normal)
-erweiterte Features wie
+Temperatur- und Vibrationsmessungen,
+mechanische Belastungsfaktoren,
+Wartungsintervalle und Fehlerhistorien,
+Umweltbedingungen (hot, cold, wet, normal),
+und erweiterte Features wie:
 temperature_diff
-stress_index (kombiniert mehrere Risikofaktoren)
+stress_index (kombiniert mehrere Risikofaktoren).
 
 Das Failure-Label wird mit einer Sigmoid-basierten Risikofunktion erzeugt, sodass ML-Modelle realistische Muster lernen können.
 Die resultierende Failure-Rate beträgt ca. 10 %, ideal für Klassifikationsmodelle
