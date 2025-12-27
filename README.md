@@ -1,5 +1,5 @@
 🚄 Predictive Maintenance – Machine Learning Projekt (ICE-Komponenten)
-Dieses Projekt demonstriert ein vollständiges Predictive-Maintenance-System für ICE-Zugkomponenten, basierend auf einem "realistisch" generierten synthetischen Sensor-Datensatz:
+Dieses Projekt demonstriert ein vollständiges Predictive-Maintenance-System für ICE-Zugkomponenten, basierend auf einem generierten synthetischen Sensor-Datensatz:
 [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jam-Reut/ml_Predictive-Maintenance-Systems_ICE/HEAD?labpath=predictive_maintenance_exam.ipynb)
 
 ## Ziel dieses Projekts:
